@@ -41,4 +41,17 @@ const countLetter = (s, str) => {
     return str.split(s).length -1;
    
 }
-console.log(countLetter('а','Асталавіста'));
+console.log(countLetter.toLowerCase('а','Асталавіста'));
+
+
+
+
+
+
+
+
+
+
+
+
+
